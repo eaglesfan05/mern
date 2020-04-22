@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb+srv://khalilhall:Briana2804@mernpractice-kgkk1.mongodb.net/test?retryWrites=true&w=majority'
-}
+  mongoURI:
+    "mongodb+srv://khalil:Briana2804@cluster0-btwyy.mongodb.net/test?retryWrites=true&w=majority",
+};
